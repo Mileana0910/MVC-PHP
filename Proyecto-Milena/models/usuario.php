@@ -187,3 +187,4 @@ class Usuario extends conexion
         $this->Disconnect();
     }
 }
+//Modelos administrar la capa de datos
